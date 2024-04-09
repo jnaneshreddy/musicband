@@ -42,12 +42,12 @@ footer {
 }
 
 .k {
-  background-image: url(./images/tom3.png);
+  background-image: url('./images/tom3.png');
 
 }
 
 .l {
-  background-image: url(./images/tom4.png);
+  background-image: url('./images/tom4.png');
 
 }
 
